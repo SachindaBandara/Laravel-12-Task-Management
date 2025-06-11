@@ -67,6 +67,7 @@ export default function Dashboard({ stats = {
                             </p>
                         </CardContent>
                     </Card>
+
                     <Card className="bg-gradient-to-br from-green-500/10 to-green-600/10 border-green-500/20">
                         <CardHeader className="flex flex-row items-center justify-between space-y-0 pb-2">
                             <CardTitle className="text-sm font-medium text-green-500">
@@ -81,6 +82,7 @@ export default function Dashboard({ stats = {
                             </p>
                         </CardContent>
                     </Card>
+
                     <Card className="bg-gradient-to-br from-yellow-500/10 to-yellow-600/10 border-yellow-500/20">
                         <CardHeader className="flex flex-row items-center justify-between space-y-0 pb-2">
                             <CardTitle className="text-sm font-medium text-yellow-500">
@@ -95,6 +97,7 @@ export default function Dashboard({ stats = {
                             </p>
                         </CardContent>
                     </Card>
+
                     <Card className="bg-gradient-to-br from-purple-500/10 to-purple-600/10 border-purple-500/20">
                         <CardHeader className="flex flex-row items-center justify-between space-y-0 pb-2">
                             <CardTitle className="text-sm font-medium text-purple-500">
