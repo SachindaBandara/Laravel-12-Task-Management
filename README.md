@@ -17,7 +17,7 @@ This application allows users to create and manage tasks, organize them into lis
 
 ## Setup
 
-1.  Clone the repository: `git clone <repository_url>`
+1.  Clone the repository: `git clone https://github.com/SachindaBandara/Laravel-12-Task-Management.git`
 2.  Navigate to the project directory: `cd Task_Management/Task-Management`
 3.  Install Composer dependencies: `composer install`
 4.  Create a `.env` file by copying `.env.example` and update the database credentials.
